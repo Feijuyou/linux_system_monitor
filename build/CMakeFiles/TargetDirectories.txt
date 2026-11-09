@@ -1,3 +1,0 @@
-/home/bryce/CppND/build/CMakeFiles/monitor.dir
-/home/bryce/CppND/build/CMakeFiles/edit_cache.dir
-/home/bryce/CppND/build/CMakeFiles/rebuild_cache.dir
